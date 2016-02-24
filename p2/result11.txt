@@ -1,0 +1,51 @@
+Illinois|Menard County|2
+Ohio|Morrow County|14
+Michigan|Lake County|14
+Indiana|Ohio County|2
+Wisconsin|Kewaunee County|8
+Tennessee|Hancock County|3
+Alabama|Choctaw County|4
+Kentucky|Webster County|6
+Mississippi|Itawamba County|2
+New York|Schuyler County|23
+Pennsylvania|Clinton County|4
+New Jersey|Camden County|44
+Arizona|Greenlee County|187
+Colorado|Phillips County|3
+Utah|Piute County|7
+Nevada|Eureka County|12
+New Mexico|Union County|3
+Idaho|Jerome County|3
+Montana|Prairie County|1
+Wyoming|Hot Springs County|14
+Massachusetts|Hampshire County|52
+Connecticut|New Haven County|1
+Maine|Hancock County|7
+New Hampshire|Belknap County|138
+Rhode Island|Providence County|829
+Vermont|Franklin County|34
+California|Colusa County|4
+Washington|San Juan County|12
+Oregon|Wheeler County|5
+Hawaii|Kauai County|653
+Alaska|Petersburg Census Area|2
+Florida|Baker County|37
+Georgia|Marion County|5
+North Carolina|Hyde County|11
+Virginia|Roanoke County|4
+Maryland|Cecil County|68
+South Carolina|Greenwood County|17
+West Virginia|Wetzel County|9
+Delaware|Kent County|2307
+District of Columbia|District of Columbia|13303
+Missouri|McDonald County|5
+Minnesota|St. Louis County|1
+Iowa|Cedar County|9
+Kansas|Rawlins County|1
+Nebraska|Kimball County|2
+South Dakota|Roberts County|1
+North Dakota|Nelson County|8
+Texas|Willacy County|1
+Louisiana|Morehouse Parish|13
+Oklahoma|Coal County|5
+Arkansas|Sevier County|12

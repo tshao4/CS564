@@ -1,0 +1,51 @@
+Alabama|791840
+Alaska|120977
+Arizona|1046232
+Arkansas|472206
+California|6550329
+Colorado|874542
+Connecticut|567792
+Delaware|148001
+District of Columbia|142775
+Florida|2998591
+Georgia|1735144
+Hawaii|223476
+Idaho|250200
+Illinois|2177600
+Indiana|1052207
+Iowa|468638
+Kansas|453799
+Kentucky|713152
+Louisiana|771769
+Maine|198656
+Maryland|1004383
+Massachusetts|1120451
+Michigan|1548077
+Minnesota|866254
+Mississippi|492481
+Missouri|968106
+Montana|147951
+Nebraska|291180
+Nevada|464309
+New Hampshire|202085
+New Jersey|1454883
+New Mexico|327218
+New York|3382459
+North Carolina|1638713
+North Dakota|106643
+Ohio|1825941
+Oklahoma|610580
+Oregon|635512
+Pennsylvania|1995159
+Rhode Island|171949
+South Carolina|770544
+South Dakota|124457
+Tennessee|1067392
+Texas|4475806
+Utah|491401
+Vermont|94376
+Virginia|1393168
+Washington|1146109
+West Virginia|283776
+Wisconsin|898518
+Wyoming|88283
